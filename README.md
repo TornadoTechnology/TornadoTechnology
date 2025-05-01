@@ -12,6 +12,6 @@ You may know me from my YouTube or the games I make. But I also create libraries
 
 ## 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tornado-Technology&theme=merko"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tornado-Technology&theme=merko&include_all_commits=false&count_private=false"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=TornadoTechnology&theme=merko"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TornadoTechnology&theme=merko&include_all_commits=false&count_private=false"/>
 </div>
